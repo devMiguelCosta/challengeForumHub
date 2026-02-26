@@ -1,5 +1,4 @@
-Miguel Silva da Costa
-Desenvolvedor Java Pleno
+
 Este repositório contém o projeto FórumHub, desenvolvido como parte do Desafio da Alura em parceria com o Oracle ONE. O foco do projeto é a criação de um back-end robusto para um fórum de tópicos e respostas.
 
 A ideia é oferecer uma API organizada e segura para criação, consulta, atualização e exclusão de tópicos, seguindo boas práticas e regras de negócio do desafio.
